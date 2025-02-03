@@ -1,6 +1,6 @@
 # Data Redundancy and Distributed Computing Workshop
 
-Please add your repo link here: https://docs.google.com/spreadsheets/d/1M_8tSkOGvB49IqCknh4QoGfxgSeskqflMla0ESwAOzc/edit?usp=sharing
+Please add your repo link here: https://docs.google.com/spreadsheets/d/19jV1-6pxrnnQ2WP2775Nb2zJbZMWIH-qeUEw4L8JAVg/edit?usp=sharing 
 
 This workshop is structured into two principal sections, focusing initially on the distinctions and connections between decentralized computing and distributed computing, shedding light on their individual characteristics and areas of application.
 
