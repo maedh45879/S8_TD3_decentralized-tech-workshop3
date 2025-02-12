@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": "1a2b3c4d",
+            "name": "Laptop",
+            "description": "High-end gaming laptop",
+            "price": 1500,
+            "category": "Electronics",
+            "inStock": true
+        },
+        {
+            "id": "2b3c4d5e",
+            "name": "Headphones",
+            "description": "Noise-canceling headphones",
+            "price": 200,
+            "category": "Accessories",
+            "inStock": true
+        },
+        {
+            "id": "3c4d5e6f",
+            "name": "Coffee Maker",
+            "description": "Automatic coffee machine",
+            "price": 80,
+            "category": "Home Appliances",
+            "inStock": false
+        }
+    ]
+}
